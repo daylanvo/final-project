@@ -1,0 +1,187 @@
+body {
+    background-color: rgb(227, 225, 222);
+}
+
+.header {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    padding-right: 0px;
+    border: 15px ridge black;
+    color: cornflowerblue;
+    align-content: end;
+    
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+a {
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cornflowerblue;
+    align-items: center;
+}
+
+.offplayer {
+    font-size:25px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.rank {
+    border: 5px solid black ;
+    align-items: center;
+
+}
+
+td {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: larger;
+        text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+
+.myDIV:hover + .hide {
+    display: block;
+    color: black;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.align {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+#daniels {
+    border: 5px solid black ;
+}
+
+#text {
+    display:none;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    background-color: brown;
+    color: aliceblue;
+}
+
+#nix {
+    border: 5px solid black ;
+}
+
+#text2 {
+    display:none;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    background-color:coral;
+    color: aliceblue;
+}
+
+#text3 {
+    display:none;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    background-color:red;
+    color: aliceblue;
+}
+
+#bucky {
+    border: 5px solid black ;
+}
+
+#text4 {
+    display:none;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    background-color:rgb(0, 0, 0);
+    color: aliceblue;
+}
+
+#bowers {
+    border: 5px solid black ;
+}
+
+#def {
+    position: relative;
+    width: 265px; 
+    height: auto;  
+    margin-right: 20px; 
+    margin-left: 20px;
+    
+}
+
+.contain {
+    display: flex;
+    align-items: center; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 20px; 
+    margin-left: 20px;
+}
+
+img {
+    border:ridge 5px black;
+}
+
+#frank {
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    color:rgb(227, 225, 222);
+}
+
+#fan {
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    padding: 5px;
+    color:rgb(227, 225, 222);
+    background-color: black;
+    border: 6px ridge black;
+}
+
+#bronco {
+    width: 605;
+    height: 800;
+}
+
+
+#flan {
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+    color: white;
+}
+
+#bronco {
+    background-image: url("broncos.png"); 
+    background-size: cover; 
+    background-position: center
+}
+
+.surt {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start; 
+}
+
+#chase {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+}
